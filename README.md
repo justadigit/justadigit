@@ -33,7 +33,8 @@
 
 ### 📫 Contact
 
-* 💼 LinkedIn: *add your link*
-* ✉️ Email: *add your email*
+* 💼 LinkedIn: *https://www.linkedin.com/in/naywinhlaing/*
+* ✉️ Email: *naywin.endeveloper@gmail.com*
+* 🚀 Portfolio: *https://nay-win.vercel.app*
 
-⭐ Feel free to explore my repositories and connect!
+⭐ Let's create something amazing together!
