@@ -3,25 +3,7 @@
 
 <div align="center">
 
-```text
-███╗   ██╗ █████╗ ██╗   ██╗    ██╗    ██╗██╗███╗   ██╗
-████╗  ██║██╔══██╗╚██╗ ██╔╝    ██║    ██║██║████╗  ██║
-██╔██╗ ██║███████║ ╚████╔╝     ██║ █╗ ██║██║██╔██╗ ██║
-██║╚██╗██║██╔══██║  ╚██╔╝      ██║███╗██║██║██║╚██╗██║
-██║ ╚████║██║  ██║   ██║       ╚███╔███╔╝██║██║ ╚████║
-╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝        ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝
-                                                      
-╔════════════════════════════════════════════════════╗
-║  Senior Full-Stack Software Engineer               ║
-╠════════════════════════════════════════════════════╣
-║  Laravel · Node.js · React · Next.js · TypeScript  ║
-║  Bangkok, Thailand · 6+ years · Open to work       ║
-╚════════════════════════════════════════════════════╝
-```
-
-<a href="https://github.com/justadigit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+products+people+really+use.;6%2B+years+of+production+experience.;Laravel+%7C+Node.js+%7C+React+%7C+Next.js;From+idea+to+deploy%2C+end+to+end." alt="Typing animation" />
-</a>
+<img src="./assets/terminal.svg" alt="Nay Win - Senior Full-Stack Software Engineer" width="100%" />
 
 <br/><br/>
 
