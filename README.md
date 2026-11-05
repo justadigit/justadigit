@@ -1,88 +1,153 @@
-# Hi, I'm Nay Win 👋
+<!-- ============================================================
+  Profile README for github.com/justadigit
+  Put this file in a PUBLIC repo named exactly: justadigit
+  (repo name must match your username)
+============================================================ -->
 
-### Senior Full-Stack Software Engineer | React • Next.js • TypeScript • Laravel • Node.js
+<div align="center">
 
-I'm a Full-Stack Software Engineer with **6+ years of professional experience** designing, developing, and maintaining production-ready web applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Nay%20Win&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Software%20Engineer&descSize=20&descAlignY=58" alt="Nay Win banner" width="100%" />
 
-I specialize in building scalable full-stack applications, designing reliable backend systems, and delivering modern user experiences.
+<a href="https://github.com/justadigit">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+products+people+really+use.;6%2B+years+of+production+experience.;Laravel+%7C+Node.js+%7C+React+%7C+Next.js;From+idea+to+deploy%2C+end+to+end.;Based+in+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing animation" />
+</a>
 
-My experience spans the entire software development lifecycle, from system architecture and API development to cloud infrastructure, CI/CD, production deployment, and performance optimization.
+<br/>
 
-📍 Based in Bangkok, Thailand
+<a href="https://nay-win.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nay--win.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/naywinhlaing"><img src="https://img.shields.io/badge/LinkedIn-naywinhlaing-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:naywin.endeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://naywinhlaing.medium.com/"><img src="https://img.shields.io/badge/Medium-Articles-12100e?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 
-🌐 [Portfolio](https://nay-win.vercel.app) · [LinkedIn](https://www.linkedin.com/in/naywinhlaing/) · [Email](mailto:naywin.endeveloper@gmail.com)
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20new%20opportunities-2ea043?style=flat-square" alt="Open to opportunities" />
+<img src="https://img.shields.io/badge/Experience-6%2B%20years-58a6ff?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Languages-English%20%7C%20%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC-bc8cff?style=flat-square" alt="Languages" />
 
-## 💻 Technical Expertise
+</div>
 
-| Area                    | Technologies                                                                                                   |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Frontend**            | React, Next.js, TypeScript, JavaScript, Tailwind CSS, React Query                                              |
-| **Backend**             | Laravel, PHP, Node.js, Express.js, REST APIs                                                                   |
-| **Databases & Caching** | MySQL, MariaDB, Redis                                                                                          |
-| **Cloud & DevOps**      | Docker, AWS S3, Cloudflare, Coolify, Traefik, CI/CD                                                            |
-| **Testing & Tools**     | Jest, Git, GitHub Actions, Postman                                                                             |
-| **Architecture**        | Full-Stack Architecture, API Design, Authentication & Authorization, Background Jobs, Performance Optimization |
+<br/>
 
----
+## 👨‍💻 `whoami`
+
+```ts
+const nayWin = {
+  role: "Senior Full-Stack Software Engineer",
+  location: "Bangkok, Thailand 📍",
+  experience: "6+ years, production apps",
+  strengths: [
+    "Clean REST APIs & backend systems",
+    "Fast, modern React / Next.js interfaces",
+    "Deploying & running apps in production",
+  ],
+  currentlyLearning: ["AI-assisted development", "Workflow automation"],
+  funFact: "I ship my own products, not only client work.",
+  lookingFor: "Meaningful products and a strong team 🤝",
+};
+```
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,astro" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs,express" alt="Backend" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,github,git" alt="DevOps" /> |
+| **Testing** | <img src="https://skillicons.dev/icons?i=jest" alt="Testing" /> |
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🎓 Pyllord Courses — Online Learning Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Laravel · Astro · React · TypeScript · Stripe · Cloudflare R2 · Docker**
+### 🎓 Pyllord Courses
+**Online learning platform**
 
-A full-stack online learning platform designed to deliver digital courses with secure payment processing and scalable content delivery.
+A full-stack platform for selling and delivering digital courses.
 
-* Developed and maintained the backend API and modern frontend architecture.
-* Integrated Stripe and local payment workflows.
-* Implemented cloud-based media storage and course access management.
-* Managed production deployment using Docker, Coolify, and Traefik.
+- Built the backend API and modern frontend
+- Stripe + local payment flows
+- Course videos on Cloudflare R2 with access control
+- Self-hosted on a VPS with Docker, Coolify and Traefik
 
-🔗 [Visit Pyllord Courses](https://courses.pyllord.com/)
+`Laravel` `Astro` `React` `TypeScript` `Stripe` `Docker`
 
-### 🛡️ Trust Check — Web Application
+**[🔗 Visit Pyllord Courses](https://courses.pyllord.com)**
 
-**React · TypeScript · Vite · Cloudflare Pages**
+</td>
+<td width="50%" valign="top">
 
-A production web application serving over 1,000 active users.
+### 🛡️ Trust Check
+**Web app with 1,000+ active users**
 
-* Built a responsive, user-focused interface using React and TypeScript.
-* Implemented and maintained frontend features and API integrations.
-* Deployed and managed the application using Cloudflare Pages.
+A fast, simple web app used by real people every day.
 
-🔗 [Visit Trust Check](https://checker.thanlar.com/)
+- Responsive UI built with React and TypeScript
+- Frontend features and API integrations
+- Deployed on Cloudflare Pages
 
----
+`React` `TypeScript` `Vite` `Cloudflare Pages`
+
+**[🔗 Visit Trust Check](https://checker.thanlar.com)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧠 How I Work
+
+| 🧱 Build it right | 🚢 Ship it | 🔍 Keep it healthy |
+|:--|:--|:--|
+| Clear architecture, clean code, and APIs that are easy to use. | CI/CD, Docker and simple deploys. Ideas reach users fast. | Tests, caching and performance work, so apps stay fast. |
+
+<br/>
 
 ## 🎯 Current Focus
 
-* Designing scalable and maintainable full-stack architectures.
-* Building reliable backend services and improving application performance.
-* Exploring AI-assisted development and workflow automation.
-* Improving code quality, automated testing, and deployment workflows.
-* Developing production-ready applications with modern cloud infrastructure.
+- 🏗️ Designing scalable full-stack architectures
+- ⚙️ Building reliable backends and faster apps
+- 🤖 Using AI tools to code and work faster
+- ✅ Better code quality and automated testing
+- ☁️ Production-ready apps on modern cloud setups
 
----
+<br/>
 
 ## 📊 GitHub Activity
 
-![Nay Win's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justadigit\&show_icons=true\&theme=radical\&hide=contribs,prs)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justadigit\&layout=compact\&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justadigit&theme=github_dark" alt="Profile details" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justadigit&theme=github_dark" alt="Top languages" width="49%" />
 
----
+</div>
 
-## 📫 Let's Connect
+<br/>
 
-I'm interested in collaborating on meaningful software projects and exploring opportunities in full-stack engineering, backend development, and scalable system architecture.
+## 📬 Let's Connect
 
-**Portfolio:** [nay-win.vercel.app](https://nay-win.vercel.app)
+I like working on real products with a good team. If you have a role or a project in mind, I would love to talk.
 
-**LinkedIn:** [linkedin.com/in/naywinhlaing](https://www.linkedin.com/in/naywinhlaing/)
+- 🌐 **Portfolio:** [nay-win.vercel.app](https://nay-win.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/naywinhlaing](https://linkedin.com/in/naywinhlaing)
+- ✉️ **Email:** [naywin.endeveloper@gmail.com](mailto:naywin.endeveloper@gmail.com)
 
-**Email:** [naywin.endeveloper@gmail.com](mailto:naywin.endeveloper@gmail.com)
+<div align="center">
 
+<br/>
 
-⭐ Let's create something amazing together!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" alt="footer" width="100%" />
+
+</div>
