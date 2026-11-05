@@ -1,55 +1,58 @@
-<!-- ============================================================
-  Profile README for github.com/justadigit
-  Put this file in a PUBLIC repo named exactly: justadigit
-  (repo name must match your username)
-============================================================ -->
+<!-- Profile README for github.com/justadigit
+     Put this file in a PUBLIC repo named exactly: justadigit -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Nay%20Win&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Software%20Engineer&descSize=20&descAlignY=58" alt="Nay Win banner" width="100%" />
+```text
+███╗   ██╗ █████╗ ██╗   ██╗    ██╗    ██╗██╗███╗   ██╗
+████╗  ██║██╔══██╗╚██╗ ██╔╝    ██║    ██║██║████╗  ██║
+██╔██╗ ██║███████║ ╚████╔╝     ██║ █╗ ██║██║██╔██╗ ██║
+██║╚██╗██║██╔══██║  ╚██╔╝      ██║███╗██║██║██║╚██╗██║
+██║ ╚████║██║  ██║   ██║       ╚███╔███╔╝██║██║ ╚████║
+╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝        ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝
+                                                      
+╔════════════════════════════════════════════════════╗
+║  Senior Full-Stack Software Engineer               ║
+╠════════════════════════════════════════════════════╣
+║  Laravel · Node.js · React · Next.js · TypeScript  ║
+║  Bangkok, Thailand · 6+ years · Open to work       ║
+╚════════════════════════════════════════════════════╝
+```
 
 <a href="https://github.com/justadigit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+products+people+really+use.;6%2B+years+of+production+experience.;Laravel+%7C+Node.js+%7C+React+%7C+Next.js;From+idea+to+deploy%2C+end+to+end.;Based+in+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+products+people+really+use.;6%2B+years+of+production+experience.;Laravel+%7C+Node.js+%7C+React+%7C+Next.js;From+idea+to+deploy%2C+end+to+end." alt="Typing animation" />
 </a>
-
-<br/>
-
-<a href="https://nay-win.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nay--win.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/naywinhlaing"><img src="https://img.shields.io/badge/LinkedIn-naywinhlaing-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:naywin.endeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://naywinhlaing.medium.com/"><img src="https://img.shields.io/badge/Medium-Articles-12100e?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20new%20opportunities-2ea043?style=flat-square" alt="Open to opportunities" />
-<img src="https://img.shields.io/badge/Experience-6%2B%20years-58a6ff?style=flat-square" alt="Experience" />
-<img src="https://img.shields.io/badge/Languages-English%20%7C%20%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC-bc8cff?style=flat-square" alt="Languages" />
+<a href="https://nay-win.pyllord.com/cv/Nay-Win-CV.pdf"><img src="https://img.shields.io/badge/%E2%AC%87%20Download-CV-2ea043?style=for-the-badge" alt="Download CV" /></a>
+<a href="https://nay-win.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nay--win.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/naywinhlaing"><img src="https://img.shields.io/badge/LinkedIn-naywinhlaing-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:naywin.endeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
+<!-- After you host nay-win-terminal.html, add this line here:
+<div align="center"><a href="YOUR_TERMINAL_URL">▶ Try my interactive terminal profile</a></div>
+-->
+
 <br/>
 
-## 👨‍💻 `whoami`
+## 👨‍💻 `$ whoami`
 
-```ts
-const nayWin = {
-  role: "Senior Full-Stack Software Engineer",
-  location: "Bangkok, Thailand 📍",
-  experience: "6+ years, production apps",
-  strengths: [
-    "Clean REST APIs & backend systems",
-    "Fast, modern React / Next.js interfaces",
-    "Deploying & running apps in production",
-  ],
-  currentlyLearning: ["AI-assisted development", "Workflow automation"],
-  funFact: "I ship my own products, not only client work.",
-  lookingFor: "Meaningful products and a strong team 🤝",
-};
+```text
+Nay Win · Senior Full-Stack Software Engineer
+
+Experience   6+ years building production web apps
+Location     Bangkok, Thailand 📍
+Languages    English, မြန်မာ
+Strengths    Clean APIs · Fast interfaces · Simple deploys
+Status       ● Open to new opportunities
 ```
 
 <br/>
 
-## 🧰 Tech Stack
+## 🧰 `$ skills`
 
 <div align="center">
 
@@ -65,7 +68,7 @@ const nayWin = {
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 `$ projects`
 
 <table>
 <tr>
@@ -74,12 +77,10 @@ const nayWin = {
 ### 🎓 Pyllord Courses
 **Online learning platform**
 
-A full-stack platform for selling and delivering digital courses.
-
 - Built the backend API and modern frontend
-- Stripe + local payment flows
+- Stripe and local payment flows
 - Course videos on Cloudflare R2 with access control
-- Self-hosted on a VPS with Docker, Coolify and Traefik
+- Self-hosted with Docker, Coolify and Traefik
 
 `Laravel` `Astro` `React` `TypeScript` `Stripe` `Docker`
 
@@ -91,9 +92,7 @@ A full-stack platform for selling and delivering digital courses.
 ### 🛡️ Trust Check
 **Web app with 1,000+ active users**
 
-A fast, simple web app used by real people every day.
-
-- Responsive UI built with React and TypeScript
+- Responsive UI with React and TypeScript
 - Frontend features and API integrations
 - Deployed on Cloudflare Pages
 
@@ -107,21 +106,26 @@ A fast, simple web app used by real people every day.
 
 <br/>
 
-## 🧠 How I Work
+## 💼 `$ experience`
 
-| 🧱 Build it right | 🚢 Ship it | 🔍 Keep it healthy |
-|:--|:--|:--|
-| Clear architecture, clean code, and APIs that are easy to use. | CI/CD, Docker and simple deploys. Ideas reach users fast. | Tests, caching and performance work, so apps stay fast. |
+```text
+2023 – 2026   Phluid Worldwide (Singapore, remote)   Full-Stack Developer
+2022 – 2023   Tec Link Myanmar
+2021 – 2023   Freelance                              National Cyber City, Neocardz
+2020          Nanolabs                               Backend
+```
 
 <br/>
 
-## 🎯 Current Focus
+## 🎯 `$ focus`
 
-- 🏗️ Designing scalable full-stack architectures
-- ⚙️ Building reliable backends and faster apps
-- 🤖 Using AI tools to code and work faster
-- ✅ Better code quality and automated testing
-- ☁️ Production-ready apps on modern cloud setups
+```text
+▸ Scalable full-stack architecture
+▸ Reliable backends and faster apps
+▸ AI-assisted development
+▸ Testing and code quality
+▸ Production-ready cloud setups
+```
 
 <br/>
 
@@ -136,18 +140,19 @@ A fast, simple web app used by real people every day.
 
 <br/>
 
-## 📬 Let's Connect
+## 📬 `$ hire-me`
 
-I like working on real products with a good team. If you have a role or a project in mind, I would love to talk.
-
-- 🌐 **Portfolio:** [nay-win.vercel.app](https://nay-win.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/naywinhlaing](https://linkedin.com/in/naywinhlaing)
-- ✉️ **Email:** [naywin.endeveloper@gmail.com](mailto:naywin.endeveloper@gmail.com)
+```text
+╔══════════════════════════════════════════════╗
+║  Let’s work together.                        ║
+║  I’m open to new opportunities.              ║
+╚══════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" alt="footer" width="100%" />
+<a href="mailto:naywin.endeveloper@gmail.com?subject=Hiring%20Nay%20Win"><img src="https://img.shields.io/badge/%E2%9C%89%20Email%20me-58a6ff?style=for-the-badge" alt="Email me" /></a>
+<a href="https://linkedin.com/in/naywinhlaing"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://nay-win.pyllord.com/cv/Nay-Win-CV.pdf"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20CV-2ea043?style=for-the-badge" alt="Download CV" /></a>
 
 </div>
